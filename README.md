@@ -1,8 +1,6 @@
 # HR Analytics & Attrition Dashboard 📊
 
-
-https://github.com/user-attachments/assets/40fd39ef-aede-473b-8b72-b0a6f944dfe2
-
+<img width="1327" height="745" alt="HR-Analytics" src="https://github.com/user-attachments/assets/edee6e95-cd5d-4142-a129-e12f8a721bd0" />
 
 ## 📌 Business Problem
 The organization is facing challenges with employee retention. This project aims to analyze historical HR data to uncover attrition trends, identify the most impacted departments, and provide actionable insights for the HR department.
